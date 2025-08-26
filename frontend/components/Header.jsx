@@ -1,1 +1,0 @@
-export default function Header() { return <header style={{padding:'10px',background:'#eee'}}><h2>Header App</h2></header>; }
